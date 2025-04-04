@@ -15,6 +15,7 @@ A great conversation with Howard (at a cybersecurity event!) introduced me to th
 - 🎓 MSc student specializing in **Pentesting & Cybersecurity**
 - 🛡️ Member of **WiCyS UK&I** and active in the cybersecurity community
 - 📚 Self-published **children’s book author** — launched my first book in Aug '24 on Kindle! [Read it here](https://www.amazon.co.uk/Nikki-Nonu-Beginning-Adventure-Discoveries-ebook/dp/B0CZYJQ12H) 📖
+  (Don't steop yourself because it is a children's book. There is looooooot of good content in there.)
 - 🎤 Host of *“Took the bait?”* on **Belfield FM** — a show about the most legendary **social engineering** stories in history
 - 🎨 Co-run a small **AR + Art inspired business** with a friend (and yes, it’s going just fine 😉)
 - 🚀 Actively involved in **startup incubators & pitch competitions**
